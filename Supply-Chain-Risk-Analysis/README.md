@@ -1,5 +1,6 @@
 # Global Supply Chain Risk Analysis
-
+## 📸 Dashboard Preview
+![Dashboard](dashboard.png)
 This project analyzes global supply chain operations with a focus on identifying risks, disruptions, and performance patterns using data-driven insights and dashboards.
 
 ## 📊 Project Overview
