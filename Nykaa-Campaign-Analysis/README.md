@@ -1,5 +1,6 @@
 # Nykaa Campaign Performance Analysis
-
+## 📸 Dashboard Preview
+![Dashboard](dashboard.png)
 This project analyzes digital marketing campaign performance for Nykaa using data-driven insights to evaluate effectiveness across channels, audience segments, and ROI.
 
 ## 📊 Project Overview
