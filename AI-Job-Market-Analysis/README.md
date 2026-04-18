@@ -1,5 +1,11 @@
 # AI Job Market Analysis
+## 📸 Dashboard Preview
 
+### 🔹 Overview Dashboard
+![Overview](dashboard-overview.png)
+
+### 🔹 Deep Dive Analysis
+![Deep Dive](dashboard-deep-dive.png)
 This project presents a Power BI dashboard analyzing AI job market trends including demand, salaries, experience levels, and work types.
 
 ## 📊 Project Overview
