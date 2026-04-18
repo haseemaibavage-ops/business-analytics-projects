@@ -15,6 +15,17 @@ This dashboard helps understand:
 - Experience level distribution
 - Remote vs onsite work trends
 - Company hiring patterns
+## 📂 Dataset
+
+The dataset used in this project is included in this repository.
+
+- File: `dataset.csv`
+- Contains:
+  - Job titles and roles
+  - Salary ranges
+  - Experience levels
+  - Work types (remote, full-time, etc.)
+  - Company and location data
 
 ## 🛠 Tools Used
 - Power BI
